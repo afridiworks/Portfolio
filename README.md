@@ -3,6 +3,6 @@
  
  ## About
  
- [GitHub](https://github.com/mariaafridi1)
- [Linkedin](https://www.linkedin.com/in/maria-afridi-369510187)
+- [GitHub](https://github.com/mariaafridi1)
+- [Linkedin](https://www.linkedin.com/in/maria-afridi-369510187)
  
