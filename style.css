@@ -11,6 +11,7 @@ header {
 
 h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #fff;
 }
 h2,
 h3 {
@@ -77,18 +78,18 @@ hr {
 ul {
   font-size: 12px;
   font-weight: bold;
-  list-style-position: inside;
+  list-style-type: none;
   text-align: center;
   text-transform: uppercase;
 }
 
-ol {
+/* ol {
   font-size: 12px;
   font-weight: bold;
   list-style-position: inside;
   text-align: center;
   text-transform: uppercase;
-}
+} */
 /* ---------DIVIDERS--------- */
 div {
   margin-left: 250px;
