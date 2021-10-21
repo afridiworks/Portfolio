@@ -11,12 +11,10 @@ header {
 
 h1 {
   font-family: fantasy;
-  font-style: italic;
 }
 h2,
 h3 {
   font-family: fantasy;
-  font-style: italic;
   color: #fff;
   text-align: center;
   font-weight: 500;
@@ -46,7 +44,7 @@ img {
 nav {
   padding: 5px;
   padding-right: 50px;
-  background-color: #000
+  background-color: #000;
   font-family: "Courier New", Courier, monospace;
   font-size: 14px;
   text-align: right;
@@ -58,7 +56,7 @@ body {
   margin: 10;
   font-family: Helvetica, Arial, sans-serif;
   background-color: #000;
-  /* color: #fff; */
+  color: #fff;
   text-align: center;
 }
 
@@ -68,7 +66,7 @@ hr {
   width: 20px;
   height: 20px;
   border: none;
-  /* background: #000; */
+  background: #000;
   color: #fff;
   margin-top: 30px;
   margin-bottom: 20px;
@@ -79,7 +77,7 @@ hr {
 ul {
   font-size: 12px;
   font-weight: bold;
-  list-style-position: inside;
+  /* list-style-position: inside; */
   text-align: center;
   text-transform: uppercase;
 }
@@ -87,7 +85,7 @@ ul {
 ol {
   font-size: 12px;
   font-weight: bold;
-  list-style-position: inside;
+  /* list-style-position: inside; */
   text-align: center;
   text-transform: uppercase;
 }
@@ -112,19 +110,18 @@ footer p {
   margin: 0;
   text-transform: uppercase;
   font-family: fantasy;
-  font-style: italic;
 }
 
 /* ---------LINKS--------- */
 a:link {
-  color: #ff006e;
+  color: #fff;
 }
 a:visited {
-  color: #48cae4;
+  color: rgb(255, 255, 255);
 }
 a:hover {
-  color: #000;
+  color: rgb(2, 153, 180);
 }
 a:active {
-  color: #fff;
+  color: rgb(221, 245, 4);
 }
