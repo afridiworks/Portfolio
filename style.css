@@ -4,14 +4,16 @@
 }
 
 header {
-  padding: 5px;
-  padding-right: 100px;
-  text-align: center;
-  text-transform: uppercase;
+  /* Sets background color to black. */
+  background-color: #000;
+  /* Adds 40 pixels of space under the header
+     so that the main content isn't so close
+     to the navigation. */
 }
 
 h1 {
   color: #fff;
+  margin: 0;
 }
 
 h2,
@@ -69,20 +71,14 @@ hr {
   background-color: #ffff;
 }
 /* ---------LISTS--------- */
-/* ul {
-  font-size: 12px;
+ul {
+  /* font-size: 12px;
   list-style-type: none;
   text-align: center;
-  text-transform: uppercase;
-} */
+  text-transform: uppercase; */
+  display: block;
+}
 
-/* ol {
-  font-size: 12px;
-  font-weight: bold;
-  list-style-position: inside;
-  text-align: center;
-  text-transform: uppercase;
-} */
 /* ---------DIVIDERS--------- */
 div {
   text-align: center;
