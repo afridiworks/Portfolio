@@ -9,11 +9,12 @@ header {
   /* Adds 40 pixels of space under the header
      so that the main content isn't so close
      to the navigation. */
+  margin-top: 80px;
 }
 
 h1 {
   color: #fff;
-  margin: 0;
+  margin-top: 25px;
 }
 
 h2,
