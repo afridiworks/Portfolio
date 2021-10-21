@@ -1,4 +1,7 @@
 /* ---------HEADER--------- */
+* {
+  font-family: "Nova Round", cursive;
+}
 
 header {
   padding: 5px;
@@ -6,6 +9,7 @@ header {
   color: rgb(182, 10, 10);
   text-align: center;
   text-transform: uppercase;
+  font-family: ;
 }
 
 h1 {
