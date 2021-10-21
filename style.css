@@ -17,7 +17,7 @@ h2,
 h3 {
   font-family: fantasy;
   font-style: italic;
-  color: ##8e9aaf;
+  color: #fff;
   text-align: center;
   font-weight: 500;
 }
@@ -57,8 +57,8 @@ nav {
 body {
   margin: 10;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: #feeafa;
-  color: #8e9aaf;
+  background-color: #000;
+  color: #fff;
   text-align: center;
 }
 
@@ -69,11 +69,11 @@ hr {
   height: 20px;
   border: none;
   background: #000;
-  color: #000;
+  color: #fff;
   margin-top: 30px;
   margin-bottom: 20px;
   transform: rotate(45deg);
-  background-color: #dee2ff;
+  background-color: #000;
 }
 /* ---------LISTS--------- */
 ul {
@@ -102,11 +102,11 @@ div {
 
 footer {
   height: 75px;
-  background-color: #8e9aaf;
+  background-color: #000;
 }
 
 footer p {
-  color: #feeafa;
+  color: #fff;
   text-align: left;
   padding: 10px;
   margin: 0;
