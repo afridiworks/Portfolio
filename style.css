@@ -43,11 +43,9 @@ img {
 /* ---------NAV--------- */
 
 nav {
-  padding: 5px;
-  padding-right: 50px;
   background-color: #000;
   font-size: 14px;
-  /* text-align: right; */
+  text-align: center;
   text-transform: uppercase;
 }
 
@@ -68,15 +66,15 @@ hr {
   margin-top: 30px;
   margin-bottom: 20px;
   transform: rotate(45deg);
-  background-color: rgb(19, 138, 207);
+  background-color: #ffff;
 }
 /* ---------LISTS--------- */
-ul {
+/* ul {
   font-size: 12px;
   list-style-type: none;
   text-align: center;
   text-transform: uppercase;
-}
+} */
 
 /* ol {
   font-size: 12px;
@@ -87,8 +85,6 @@ ul {
 } */
 /* ---------DIVIDERS--------- */
 div {
-  margin-left: 250px;
-  margin-right: 250px;
   text-align: center;
 }
 
@@ -101,7 +97,7 @@ div {
 
 footer p {
   color: #000;
-  text-align: left;
+
   padding: 10px;
   margin: 0;
   text-transform: uppercase;
